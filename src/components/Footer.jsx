@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-brand">
           <div className="logo">
             <Terminal size={20} className="accent-icon" />
-            <span>DevPortfolio</span>
+            <span>YE HTET AUNG_Portfolio</span>
           </div>
           <p>Building high-quality digital experiences with technical precision.</p>
         </div>
@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} DevPortfolio. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} YEHTETAUNG_Portfolio. All rights reserved.</p>
         </div>
       </div>
 
